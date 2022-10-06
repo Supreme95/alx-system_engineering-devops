@@ -1,1 +1,1 @@
-The shell, basics directory
+The shell, basics directory. Here we go!
